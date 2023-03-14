@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "ocr-chatgpt-problem-solver"
+    },
+    "appShortName": {
+        "message": "ocr-chatgpt-problem-solver"
+    },
+    "appDescription": {
+        "message": "Solve image problems by converting them into text and requesting ChatGPT to solve it."
+    }
+}
